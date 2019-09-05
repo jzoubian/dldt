@@ -22,6 +22,10 @@
 #ifndef MVLOG_H__
 #define MVLOG_H__
 
+#ifndef __STDC_FORMAT_MACROS
+#define __STDC_FORMAT_MACROS
+#endif
+
 #include <stdio.h>
 #include <stdarg.h>
 #include <inttypes.h>
