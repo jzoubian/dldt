@@ -8,7 +8,7 @@
 #include <string>
 #include <tuple>
 #include <set>
-#include <math.h>
+#include <cmath>
 #include "ie_layers_internal.hpp"
 #include "layer_transform.hpp"
 
